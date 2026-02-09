@@ -1,7 +1,7 @@
 {
     "ramadan_config": {
         "start_date": "2026-02-18",
-        "total_days": 30
+        "total_days": 29
     },
     "ramadan_year": 1447,
     "days": [
@@ -698,4 +698,5 @@
     ]
 
 }
+
 
